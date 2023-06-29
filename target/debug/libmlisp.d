@@ -1,0 +1,1 @@
+C:\Users\aegon\PLC\mlisp\target\debug\libmlisp.rlib: C:\Users\aegon\PLC\mlisp\src\eval.rs C:\Users\aegon\PLC\mlisp\src\interpreter.rs C:\Users\aegon\PLC\mlisp\src\lex.rs C:\Users\aegon\PLC\mlisp\src\lib.rs C:\Users\aegon\PLC\mlisp\src\parse.rs C:\Users\aegon\PLC\mlisp\src\types.rs
